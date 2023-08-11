@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcAreaCircleTriangleLib", "CalcAreaCircleTriangleLib\CalcAreaCircleTriangleLib.csproj", "{5A343167-1B70-4DA6-B7DC-DD29493B3568}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcAreaCircleTriangleLib.Tests", "FiguresTestProject\CalcAreaCircleTriangleLib.Tests.csproj", "{17375675-89E2-4C17-A55D-3E109AAB7CBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{014D1A2A-54F5-4395-8B2E-6AFB7B232D4A}"
+	ProjectSection(SolutionItems) = preProject
+		DisplayProductsCategory.sql = DisplayProductsCategory.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A343167-1B70-4DA6-B7DC-DD29493B3568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A343167-1B70-4DA6-B7DC-DD29493B3568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A343167-1B70-4DA6-B7DC-DD29493B3568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A343167-1B70-4DA6-B7DC-DD29493B3568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17375675-89E2-4C17-A55D-3E109AAB7CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17375675-89E2-4C17-A55D-3E109AAB7CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17375675-89E2-4C17-A55D-3E109AAB7CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17375675-89E2-4C17-A55D-3E109AAB7CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE6F1CB-3AD8-4D2C-B445-AC6C4EA569DF}
+	EndGlobalSection
+EndGlobal
